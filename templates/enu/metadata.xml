@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding="utf-8"?>
+<metadata>
+      <exif tag="103"  selected="n" name="Compression"/>
+      <exif tag="10F"  selected="y" name="Make"/>
+      <exif tag="110"  selected="y" name="Model"/>
+      <exif tag="112"  selected="y" name="Orientation"/>
+      <exif tag="11A"  selected="n" name="X-Resolution"/>
+      <exif tag="11B"  selected="n" name="Y-Resolution"/>
+      <exif tag="128"  selected="n" name="Resolution Unit"/>
+      <exif tag="131"  selected="n" name="Software"/>
+      <exif tag="132"  selected="n" name="Date &amp; Time"/>
+      <exif tag="213"  selected="n" name="YCbCr Positioning"/>
+      <exif tag="829A" selected="y" name="Exposure Time (sec)"/>
+      <exif tag="829D" selected="y" name="F-Number"/>
+      <exif tag="9000" selected="n" name="EXIF Version"/>
+      <exif tag="9003" selected="y" name="Original Date &amp; Time"/>
+      <exif tag="9004" selected="n" name="Date &amp; Time Digitized"/>
+      <exif tag="9101" selected="n" name="Components Configuration"/>
+      <exif tag="9102" selected="y" name="Compressed Bits Per Pixel"/>
+      <exif tag="9201" selected="n" name="Shutter Speed Value"/>
+      <exif tag="9202" selected="n" name="Aperture Value"/>
+      <exif tag="9204" selected="y" name="Exposure Bias Value"/>
+      <exif tag="9205" selected="y" name="Max Aperture Value"/>
+      <exif tag="9207" selected="y" name="Metering Mode"/>
+      <exif tag="9209" selected="y" name="Flash"/>
+      <exif tag="920A" selected="y" name="Focal Length (mm)"/>
+      <exif tag="9286" selected="n" name="User Comment"/>
+      <exif tag="A000" selected="n" name="FlashPix Version"/>
+      <exif tag="A001" selected="n" name="Color Space"/>
+      <exif tag="A002" selected="n" name="EXIF Image Width"/>
+      <exif tag="A003" selected="n" name="EXIF Image Height"/>
+      <exif tag="A20E" selected="n" name="Focal Plane X-Resolution"/>
+      <exif tag="A20F" selected="n" name="Focal Plane Y-Resolution"/>
+      <exif tag="A210" selected="n" name="Focal Plane Resolution Unit"/>
+      <exif tag="A217" selected="n" name="Sensing Method"/>
+      <exif tag="A300" selected="n" name="File Source"/>
+      <exif tag="A401" selected="n" name="Custom Rendered"/>
+      <exif tag="A402" selected="y" name="Exposure Mode"/>
+      <exif tag="A403" selected="y" name="White Balance"/>
+      <exif tag="A404" selected="n" name="Digital Zoom Ratio"/>
+      <exif tag="A406" selected="y" name="Scene Capture Type"/>
+      <exif tag="8769" selected="n" name="EXIF SubIFD Offset"/>
+      <exif tag="11A"  selected="n" name="X-Resolution"/>
+      <exif tag="11B"  selected="n" name="Y-Resolution"/>
+      <exif tag="128"  selected="n" name="Resolution Unit"/>
+      <exif tag="201"  selected="n" name="JPEG Interchange Format"/>
+      <exif tag="202"  selected="n" name="JPEG Interchange Format Length"/>
+</metadata>

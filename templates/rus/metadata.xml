@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding="utf-8"?>
+<metadata>
+      <exif tag="103"  selected="n" name="Сжатие"/>
+      <exif tag="10F"  selected="y" name="Изготовитель"/>
+      <exif tag="110"  selected="y" name="Модель"/>
+      <exif tag="112"  selected="y" name="Ориентация"/>
+      <exif tag="11A"  selected="n" name="Разрешение по X"/>
+      <exif tag="11B"  selected="n" name="Разрешение по Y"/>
+      <exif tag="128"  selected="n" name="Единица разрешения"/>
+      <exif tag="131"  selected="n" name="Software"/>
+      <exif tag="132"  selected="n" name="Дата изменения"/>
+      <exif tag="213"  selected="n" name="YCbCr Positioning"/>
+      <exif tag="829A" selected="y" name="Выдержка"/>
+      <exif tag="829D" selected="y" name="Диафрагма"/>
+      <exif tag="9000" selected="n" name="Версия EXIF"/>
+      <exif tag="9003" selected="y" name="Дата создания"/>
+      <exif tag="9004" selected="n" name="Дата оцифровки"/>
+      <exif tag="9101" selected="n" name="Конфигурация компонент"/>
+      <exif tag="9102" selected="y" name="Сжатие(бит на пиксел)"/>
+      <exif tag="9201" selected="n" name="Величина выдержки"/>
+      <exif tag="9202" selected="n" name="Величина диафрагмы"/>
+      <exif tag="9204" selected="y" name="Компенсация выдержки"/>
+      <exif tag="9205" selected="y" name="Максимальная диафрагма"/>
+      <exif tag="9207" selected="y" name="Режим замера освещенности"/>
+      <exif tag="9209" selected="y" name="Вспышка"/>
+      <exif tag="920A" selected="y" name="Фокусное расстояние"/>
+      <exif tag="9286" selected="n" name="Примечания"/>
+      <exif tag="A000" selected="n" name="Версия FlashPix"/>
+      <exif tag="A001" selected="n" name="Цветовая схема"/>
+      <exif tag="A002" selected="n" name="Фактическая ширина"/>
+      <exif tag="A003" selected="n" name="Фактическая высота"/>
+      <exif tag="A20E" selected="n" name="Разрешение по X в фокальной плоскости"/>
+      <exif tag="A20F" selected="n" name="Разрешение по Y в фокальной плоскости"/>
+      <exif tag="A210" selected="n" name="Единица разрешения в фокальной плоскости"/>
+      <exif tag="A217" selected="n" name="Тип матрицы"/>
+      <exif tag="A300" selected="n" name="Источник"/>
+      <exif tag="A401" selected="n" name="Обработка"/>
+      <exif tag="A402" selected="y" name="Режим выдержки"/>
+      <exif tag="A403" selected="y" name="Баланс белого"/>
+      <exif tag="A404" selected="n" name="Цифровое увеличение"/>
+      <exif tag="A406" selected="y" name="Режим сцены"/>
+      <exif tag="8769" selected="n" name="EXIF SubIFD Offset"/>
+      <exif tag="11A"  selected="n" name="X-Resolution"/>
+      <exif tag="11B"  selected="n" name="Y-Resolution"/>
+      <exif tag="128"  selected="n" name="Resolution Unit"/>
+      <exif tag="201"  selected="n" name="JPEG Interchange Format"/>
+      <exif tag="202"  selected="n" name="JPEG Interchange Format Length"/>
+</metadata>
