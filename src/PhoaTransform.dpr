@@ -19,6 +19,7 @@ uses
 
 begin
   Application.Initialize;
+  Application.Title := 'PhoA Transformer';
   Application.CreateForm(TfMain, fMain);
   Application.Run;
 end.

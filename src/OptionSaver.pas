@@ -16,7 +16,7 @@ var
 
   procedure InitOptions;
   begin
-    IniFile := TIniFile.Create(ChangeFileExt(ParamStr(0), '.ini'));
+    if IniFile=nil then IniFile := TIniFile.Create(ChangeFileExt(ParamStr(0), '.ini'));
   end;
 
   function GetOption(const Name: String; const Default: Variant): Variant;
