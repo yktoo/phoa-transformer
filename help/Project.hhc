@@ -1,0 +1,38 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+
+<UL>
+    <LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Назначение">
+        <param name="Local" value="About.htm">
+        <param name="ImageNumber" value="9">
+    </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Технологии">
+        <param name="Local" value="Technologies.htm">
+        <param name="ImageNumber" value="41">
+    </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Работа">
+        <param name="Local" value="Usage.htm">
+        <param name="ImageNumber" value="1">
+    </OBJECT>
+<UL>
+    <LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Основное окно">
+        <param name="Local" value="MainWindow.htm">
+        <param name="ImageNumber" value="11">
+    </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Настройки конвертора">
+        <param name="Local" value="ConverterOptions.htm">
+        <param name="ImageNumber" value="11">
+    </OBJECT>
+</UL>
+</UL>
+</BODY></HTML>
+

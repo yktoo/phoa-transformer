@@ -1,0 +1,24 @@
+<HTML><BODY>
+<UL>
+    <LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Назначение">
+        <param name="Local" value="About.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Технологии">
+        <param name="Local" value="Technologies.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Работа">
+        <param name="Local" value="Usage.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Основное окно">
+        <param name="Local" value="MainWindow.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Настройки конвертора">
+        <param name="Local" value="ConverterOptions.htm">
+        </OBJECT>
+</UL>
+</BODY></HTML>

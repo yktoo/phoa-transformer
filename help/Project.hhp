@@ -1,0 +1,26 @@
+[OPTIONS]
+Binary TOC=Yes
+Compatibility=1.1 or later
+Compiled file=PhoATransform.chm
+Contents file=Project.hhc
+Default Window=MainWindow
+Default topic=About.htm
+Display compile progress=No
+Full-text search=Yes
+Index file=Project.hhk
+Language=0x419 Russian
+Title=PhoA Transformer
+
+[WINDOWS]
+MainWindow=,"Project.hhc","Project.hhk",,,,,,,0x33560,,0x60384e,,,,,,,,0
+
+
+[FILES]
+About.htm
+Technologies.htm
+Usage.htm
+MainWindow.htm
+ConverterOptions.htm
+
+[INFOTYPES]
+
