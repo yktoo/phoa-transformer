@@ -72,23 +72,10 @@ uses Main, phXML, Progressor, DKLang;
   }
   end;
 
-  function RemoveMetaTag(S: String): String;
-  var N, I: Integer;
-  begin
-    Result := S;
-    N := Pos('<META', S);
-    if N <> 0 then begin
-      for I := N to Length(S) do
-        if S[I] = '>' then begin
-          Delete(Result, N, I - N + 1);
-          Break;
-        end;
-    end;
-  end;
 
   procedure TFrameEditorOutput.SetText(const Value: String);
   begin
-    inherited SetText(RemoveMetaTag(Value));
+    inherited SetText(StringReplace(Value, 'UTF-16', 'UTF-8', [rfIgnoreCase]));
     if RadioGroupView.ItemIndex = 1 then UpdateHTML();
   end;
 
@@ -100,7 +87,7 @@ uses Main, phXML, Progressor, DKLang;
       raise Exception.Create(LangManager.ConstantValue['SNoTempFile']);
     DeleteTempFile;
     FTempFile := Buffer;
-    StringToFile(Text, FTempFile);
+    StringToFile(AnsiToUtf8(Text), FTempFile);
     WebBrowser.Navigate(FTempFile);
   end;
 
