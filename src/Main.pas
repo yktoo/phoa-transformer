@@ -39,6 +39,7 @@ type
     procedure ActionOptionsExecute(Sender: TObject);
     function FormHelp(Command: Word; Data: Integer; var CallHelp: Boolean): Boolean;
     procedure FrameEditorOutputButton2Click(Sender: TObject);
+    procedure DKLanguageController1LanguageChanged(Sender: TObject);
   published
     ActionListMain: TActionList;
     Transform: TAction;
@@ -158,6 +159,7 @@ const
 
   function TfMain.FormHelp(Command: Word; Data: Integer; var CallHelp: Boolean): Boolean;
   begin
+
     ShellExecute(Handle, 'Open', PChar(ChangeFileExt(ParamStr(0), '.chm')), nil, nil, SW_NORMAL);
     Result := true;
   end;
@@ -166,5 +168,11 @@ const
   begin
     FrameEditorOutput.ActionOpenExecute(Sender);
   end;
+
+procedure TfMain.DKLanguageController1LanguageChanged(Sender: TObject);
+begin
+  ToolBarMenu.Menu := nil;
+  ToolBarMenu.Menu := mMain;
+end;
 
 end.

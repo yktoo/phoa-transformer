@@ -1,6 +1,6 @@
 object fMain: TfMain
-  Left = 443
-  Top = 119
+  Left = 245
+  Top = 157
   Width = 861
   Height = 724
   Caption = 'PhoA Transformer'
@@ -383,12 +383,12 @@ object fMain: TfMain
     Left = 0
     Top = 469
     Width = 853
-    Height = 226
+    Height = 221
     Align = alClient
     Constraints.MinHeight = 215
     TabOrder = 2
     inherited PanelLeft: TPanel
-      Height = 226
+      Height = 221
       inherited Button2: TButton
         TabOrder = 4
       end
@@ -407,12 +407,12 @@ object fMain: TfMain
     end
     inherited PanelRight: TPanel
       Width = 751
-      Height = 226
+      Height = 221
       inherited WebBrowser: TWebBrowser
         Width = 751
-        Height = 226
+        Height = 221
         ControlData = {
-          4C0000009E4D00005C1700000000000000000000000000000000000000000000
+          4C0000009E4D0000D71600000000000000000000000000000000000000000000
           000000004C000000000000000000000001000000E0D057007335CF11AE690800
           2B2E126208000000000000004C0000000114020000000000C000000000000046
           8000000000000000000000000000000000000000000000000000000000000000
@@ -420,7 +420,7 @@ object fMain: TfMain
       end
       inherited Editor: TMemo
         Width = 751
-        Height = 226
+        Height = 221
       end
     end
     inherited alMain: TActionList
@@ -443,19 +443,19 @@ object fMain: TfMain
         ImageIndex = -1
         MinHeight = 23
         MinWidth = 150
-        Width = 164
+        Width = 163
       end
       item
         Break = False
         Control = PanelXMLOptions
         ImageIndex = -1
         Text = 'Selected group:'
-        Width = 679
+        Width = 684
       end>
     object PanelXMLOptions: TPanel
-      Left = 260
+      Left = 253
       Top = 0
-      Width = 585
+      Width = 592
       Height = 25
       Align = alTop
       BevelOuter = bvNone
@@ -479,7 +479,7 @@ object fMain: TfMain
       end
     end
     object ToolBarMenu: TToolBar
-      Left = 12
+      Left = 9
       Top = 1
       Width = 150
       Height = 23
@@ -532,6 +532,7 @@ object fMain: TfMain
       '*.Font.Name'
       '.Caption'
       'ButtonSelectGroup.Caption')
+    OnLanguageChanged = DKLanguageController1LanguageChanged
     Left = 716
     Top = 30
     LangData = {
