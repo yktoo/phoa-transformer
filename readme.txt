@@ -38,14 +38,14 @@ DISTRIBUTION TERMS
 PhoA Transformer is distributed under GPL 2.0 (GNU General Public License)
 terms, which allows you to freely redistribute, copy or modify its source codes
 provided mentioned the code origin. Should you wish to acquire the GPL 2.0
-license, you find it at http://www.gnu.org/copyleft/gpl.html 
+license, you find it at http://www.gnu.org/copyleft/gpl.html
 
 The author expressly disclaims any warranty for this software product. The
 software product and any related documentation is provided as is without
 warranty of any kind, either express or implied, including, without
 limitation, the implied warranties or merchantability, fitness for a particular
 purpose, or noninfringement. The entire risk arising out of use or performance
-of the software product remains with you. 
+of the software product remains with you.
 
 In no event shall the author of this software product be liable for any special,
 consequential, incidental or indirect damages whatsoever (including, without
@@ -55,9 +55,9 @@ inability to use this product.
 
 FEEDBACK AND UPDATES
 --------------------
-The project is currently hosted by the SourceForge. The project page is:
+The project is currently hosted by GitHub. The project page is:
 
-http://sourceforge.net/projects/phoatrans
+https://github.com/yktoo/phoa-transformer
 
 For feedback, bug reports and feature requests please use the services provided
 by SourceForge (Forums, Tracker & so on).
