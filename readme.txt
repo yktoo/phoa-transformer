@@ -60,6 +60,6 @@ The project is currently hosted by GitHub. The project page is:
 https://github.com/yktoo/phoa-transformer
 
 For feedback, bug reports and feature requests please use the services provided
-by SourceForge (Forums, Tracker & so on).
+by it (the issue tracker).
 
 You also can contact Mikhail Virovets directly by writing to virovets@comtv.ru
